@@ -21,4 +21,4 @@
 
 ## 📷 Screenshots
 
-![image alt]()
+![image alt](https://github.com/Kumaramit0809/movie-watchlist/blob/08d7e56dc11a46edb3dc051e2f1d04af4a440589/Screenshot%202025-07-28%20005551.png)

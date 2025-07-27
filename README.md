@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 - React.js (with Hooks)
-- CSS (or Tailwind, if used)
+- CSS 
 - JavaScript (ES6+)
 - [OMDb API](https://www.omdbapi.com/)
 - LocalStorage
